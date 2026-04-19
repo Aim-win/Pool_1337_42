@@ -1,4 +1,4 @@
-# 1337 Piscine Notes & Practice
+# 1337 Piscine Notes + Practice
 
 This repository gathers the knowledge I built during the 42 Piscine, from fundamental concepts to more advanced exercises. It serves both as a personal reference and as a resource for current and future pisciners who want to strengthen their understanding.
 
