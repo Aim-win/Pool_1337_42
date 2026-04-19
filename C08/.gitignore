@@ -1,0 +1,13 @@
+a.out
+.DS_Store
+*.swp
+*.a
+*.o
+*.out
+.vscode
+*.gch
+ex01/*.c
+ex02/*.c
+ex03/*.c
+ex04/*.h
+ex05/*.h
