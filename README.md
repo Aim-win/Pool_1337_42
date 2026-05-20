@@ -45,7 +45,7 @@ The Piscine is intentionally challenging. The goal is not to know everything, bu
 
 ## Project Status
 
-I completed the 42 Piscine (1337 khouribga)  with a final level of **10.60**, ranking **Top 2 in my cohort**. Below is a summary of my project results:
+I completed the 42 Piscine (1337 khouribga)  with a final level of **10.60**, ranking **Top 2 in my promo**. Below is a summary of my project results:
 
 | Project | Final Grade | Completed |
 |:--------|:------------|:----------|
