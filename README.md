@@ -38,7 +38,6 @@ Working with peers helps you:
 Discussions should focus on understanding, not copying.
 
 ---
-
 ## Final Thoughts
 
 The Piscine is intentionally challenging. The goal is not to know everything, but to develop the ability to learn independently. Stay consistent, stay curious, and use difficulties as opportunities to improve.
